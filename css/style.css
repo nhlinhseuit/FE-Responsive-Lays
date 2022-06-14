@@ -5,6 +5,14 @@
     font-family: 'Mark Pro', sans-serif;
 }
 
+body {
+    background-image: url(https://oishi.cdn.vccloud.vn/images/home/step-1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
 header {
     position: relative;
     background-color: #fbd703;
